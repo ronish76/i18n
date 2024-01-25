@@ -3,5 +3,5 @@ export const LANGUAGES = [
     { label: "Spanish", code: "es" },
     { label: "Italian", code: "it" },
     { label: "Hindi", code: "hi" },
-    {label:"Nepali",code:"ne"},
+    {label:  "Nepali", code:"ne"},
   ];

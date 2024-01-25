@@ -47,15 +47,15 @@ i18n.use(initReactI18next).init({
         },
       },
       
-      // ne: {
-      //   translation:{
-      // title: "बहुभासी एप्प",
-      // label: "अर्को भाषा छान्नुहोस्",
-      // about: "बारेमा",
-      // home: "घर",
-      // user: "मेरो नाम हो: {{name}}"
-      //   },
-      // },
+      ne: {
+        translation:{
+      title: "बहुभासी एप्प",
+      label: "अर्को भाषा छान्नुहोस्",
+      about: "बारेमा",
+      home: "घर",
+      user: "मेरो नाम हो: {{name}}"
+        },
+      },
       
   },
 });
