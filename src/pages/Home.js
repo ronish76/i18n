@@ -5,8 +5,8 @@ export const Home = () => {
 
     return (
       <main>
-        <h1>{t("title")}</h1>
-        <span>{t("label")}</span>
+        <h1>{t ("title")}</h1>
+        <span>{t ("label")}</span>
       </main>
     );
   };

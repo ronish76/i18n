@@ -5,8 +5,8 @@ export const About = () => {
 
     return (
       <main>
-        <h1>{t("about")}</h1>
-        <span>{t("user", { name: " Ronish" })}</span>
+        <h1>{t ("about")}</h1>
+        <span>{t ("user", { name: " Ronish" })}</span>
       </main>
     );
   };
